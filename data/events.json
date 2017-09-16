@@ -1,0 +1,25 @@
+[
+    {
+        "id": 101,
+        "name": "Gully Cricket",
+        "description": "Effervescence'17 presents to you the most entertaining event \"GULLY CRICKET\". Make your Team of Bluster and Come to play game of spirit. Win Cash and other exciting prizes...",
+        "location": "Tennis Court",
+        "timestamp": 1507786200,
+        "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/blob/master/images/gully_cricket.jpg",
+        "facebookEventLink": "https://www.facebook.com/events/1113514188781807/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Ashutosh Vishwakarma",
+                "phoneNumber": 9457611044
+            },
+            {
+                "name": "Divy Vaishnav",
+                "phoneNumber": 8058351196
+            }
+        ]
+    }
+]
