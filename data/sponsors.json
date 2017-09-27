@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1001,
+		"name": "FBB",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/blob/master/images/fbb.png",
+		"categories": [
+			"Title Sponsor",
+			"A'la Mode"
+		],
+		"priority": 0
+	},
+	{
+		"id": 1002,
+		"name": "Saavn",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/blob/master/images/saavn.png",
+		"categories": [
+			"Online Music Streaming Partner"
+		],
+		"priority": 1
+	},
+	{
+		"id": 1003,
+		"name": "ManForce",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/blob/master/images/manforce.png",
+		"categories": [
+			"Protection Partner"
+		],
+		"priority": 1
+	}
+]
