@@ -21,5 +21,561 @@
                 "phoneNumber": 8058351196
             }
         ]
+    },
+    
+    {
+        "id": 102,
+        "name": "Perplexus",
+        "description": "An online treasure hunt competition for the ecth geeks who would like to keep it simple yet competitive!",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/1992044107749486/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Abhishek D Nandan",
+                "phoneNumber": 8603111470
+            },
+            {
+                "name": "Vikash",
+                "phoneNumber": 8102816247
+            }
+        ]
+    },
+
+    {
+        "id": 103,
+        "name": "Stegolica",
+        "description": "A delight for all the aspiring hackers and crackers , Stegolica is an online cryptography competition which has one of the most toughest competitors trying to prove themselves.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Aseem Shrey",
+                "phoneNumber": 9455245705
+            },
+            {
+                "name": "Abhishek Acharya",
+                "phoneNumber": 8302503300
+            }
+        ]
+    },
+    
+    {
+        "id": 104,
+        "name": "Futsal",
+        "description": "Test your real life football skills and motor skill-mojo in this five-a-side, small area, short time version of football. Viva la futsal! ",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/116311565708297/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Badnena Upendra",
+                "phoneNumber": 9831474771
+            },
+            {
+                "name": "Anirudh Singh Rathore",
+                "phoneNumber": 9587984782
+            },
+            {
+                "name": "Akshat",
+                "phoneNumber": 7018776033
+            }
+        ]
+    },
+    
+    {
+        "id": 105,
+        "name": "Blind Date",
+        "description": "Let the cupid strike your heart, have a date to spend some time with and then well, who knows what can happen!",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/853548354812466/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Pallak Srivastava",
+                "phoneNumber": 7379458308
+            },
+            {
+                "name": "Kamal Chaubey",
+                "phoneNumber": 8127172661
+            }
+        ]
+    },
+
+    {
+        "id": 106,
+        "name": "Night on Boards",
+        "description": "This is event is for all the board game nerds, held at night for your convenience. Effervescence never sleeps and better even, never stops playing. Sounds perfect, no?",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/509074202779922/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Shubham Varshney",
+                "phoneNumber": 7052065360
+            },
+            {
+                "name": "Ankit Kumar",
+                "phoneNumber": 8171229764
+            },
+            {
+                "name": "Ravi Ranjan",
+                "phoneNumber": 9470211354
+            }
+        ]
+    },
+
+    {
+        "id": 107,
+        "name": "China Town",
+        "description": "Effervescence'17  presents you China Town, an event filled with card games like Poker, Teen Patti and Darts. Come and witness your dream turn into reality.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Aditya Goel",
+                "phoneNumber": 9001791793
+            },
+            {
+                "name": "Varun Singh",
+                "phoneNumber": 9491618521
+            }
+        ]
+    },
+
+    {
+        "id": 108,
+        "name": "Tug-of-War",
+        "description": "Effervescence'17 present to you the \"Tug-of-War\" that tests your strength and character. ",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/132375700730508/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Aswin",
+                "phoneNumber": 8281637530
+            },
+                {
+                "name": "Aswanth",
+                "phoneNumber": 8281358507
+            },
+            {
+                "name": "Dhruval CR",
+                "phoneNumber": 9496814630
+            }
+        ]
+    },
+
+    {
+        "id": 109,
+        "name": "Just A Minute",
+        "description": "Amazing hand-eye coordination, sharp and fast thinking, and a zest to win are prerequisites for this reboot of A Minute to Win It.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/1659597200946105/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Pradeep Kumar",
+                "phoneNumber": 8938922705
+            },
+            {
+                "name": "Vijay Kumar Giri",
+                "phoneNumber": 9453834673
+            }
+        ]
+    },
+
+    {
+        "id": 110,
+        "name": "AdMania",
+        "description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. ",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/116506349066680/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Sanika Surse",
+                "phoneNumber": 7380844608
+            },
+            {
+                "name": "Nikhil Kori",
+                "phoneNumber": 8130020527
+            }
+        ]
+    },
+
+    {
+        "id": 111,
+        "name": "Counter Strike 1.6",
+        "description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/723040291222111/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Raghav Khandelwal",
+                "phoneNumber": 9414038742
+            },
+            {
+                "name": "Atul Sinha",
+                "phoneNumber": 7061440715
+            }
+        ]
+    },
+    
+    {
+        "id": 112,
+        "name": "Fifa17",
+        "description": "FIFA is an online football gaming event played with La Liga format where the winning teams will be decided according to a  knockout round. ",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/172746143296872/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Rohit Kumar",
+                "phoneNumber": 8174015678
+            },
+            {
+                "name": "Madamshetty Rakshith",
+                "phoneNumber": 7572029971
+            }
+        ]
+    },
+
+    {
+        "id": 113,
+        "name": "Android Gamer’s Asylum",
+        "description": "This event consists of a competition of popular Android Games like Mini Militia, Bomb Squad.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/831286057040427/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Harsh Jain",
+                "phoneNumber": 8349454791
+            },
+            {
+                "name": "Pulkit Jaroli",
+                "phoneNumber": 7572089974
+            }
+        ]
+    },
+
+    {
+        "id": 114,
+        "name": "Paanipuri Junction",
+        "description": "Panipuri Junction gives you an opportunity to show your love for the food with the simplest of competitions. Eat as many golgappas as you want in a minute without having to pay for it and may be win something out of it.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/1856143044678516/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Aanandita Dhawan",
+                "phoneNumber": 8957065531
+            },
+            {
+                "name": "Apoorv Mahajan",
+                "phoneNumber": 8979776337
+            }
+        ]
+    },
+
+    {
+        "id": 115,
+        "name": "TV Series Quiz",
+        "description": "From Game Of Thrones to Suits and From How I Met Your Mother to Friends, this event will make you relive those amazing moments to the core.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/128769554434259/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Akash Mishra",
+                "phoneNumber": 9696427244
+            },
+            {
+                "name": "Rishi Shukla",
+                "phoneNumber": 7234047435
+            }
+        ]
+    },
+
+    {
+        "id": 116,
+        "name": "Cricket Quiz",
+        "description": "Who was the first person to score 300 runs in a test match? If you’ve got the answers, we’ve got the competition and some really tough questions coming your way in this three-round quiz.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/265004644008088/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Piyush Gurnule",
+                "phoneNumber": 7276575280
+            },
+            {
+                "name": "Utsav Nareti",
+                "phoneNumber": 8085402177
+            }
+        ]
+    },
+
+    {
+        "id": 117,
+        "name": "Animania",
+        "description": "Think you're the biggest anime freak out there? Come , participate and meet your kind(of people).",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/419536885125796/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Parth Agarwal",
+                "phoneNumber": 9557646688 
+            },
+            {
+                "name": "Harshit Jain",
+                "phoneNumber": 8527116329
+            }
+        ]
+    },
+
+    {
+        "id": 118,
+        "name": "Roadies",
+        "description": "If you’ve got the brains and the brawn, look no further for the ultimate test of your physical and mental strength. This is no mere reboot of the T.V. series.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Shreyansh Chaudhary",
+                "phoneNumber": 9559155755
+            },
+            {
+                "name": "Suryansh Tiwary",
+                "phoneNumber": 7839305526
+            },
+            {
+                "name": "Mohammed Harris",
+                "phoneNumber": 7081878650
+            }
+        ]
+    },
+
+    {
+        "id": 119,
+        "name": "Photobooth",
+        "description": "If you are obsessed with getting yourself clicked, then we present the Photo Booth for you where you can have your pictures taken with props and all the dreamworks of a carnival presented just for you! Enter Pose and Click!",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Ankit jain",
+                "phoneNumber": 7597604467
+            },
+            {
+                "name": "Sanam Bahadur",
+                "phoneNumber": 7404559522
+            },
+            {
+                "name": "Nikhil Mundra",
+                "phoneNumber": 9919799191
+            }
+        ]
+    },
+    
+    {
+        "id": 120,
+        "name": "Arm Wrestling",
+        "description": "Come show where the hours you put into the gym and the push-ups and chin-ups you do have taken you in the competition where the strongest prevails!!",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/132469360716340/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Akshay Kumar",
+                "phoneNumber": 8002430834
+            },
+            {
+                "name": "Rishabh Agnihotri",
+                "phoneNumber": 8188940829
+            }
+        ]
+    },
+
+    {
+        "id": 121,
+        "name": "Basketball",
+        "description": "An informal basketball sporting event with custom rules made for you!!",
+        "location": "Basketball court",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/223944314803947/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Nishant Malik",
+                "phoneNumber": 7252920582
+            },
+            {
+                "name": "Sudhanshu Shakya",
+                "phoneNumber": 8439357480
+            }
+        ]
+    },
+
+    {
+        "id": 122,
+        "name": "Treasure Hunt",
+        "description": "\"The treasure awaits you only if you search for it.\"The Treasure Hunt ensures that you enjoy running around the college in search of clues. Wherever the clues will be you will search them, find them and open the way to the final treasure.",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/223944314803947/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Swapnesh Narayan",
+                "phoneNumber": 9839775664
+            },
+            {
+                "name": "Yash Gupta",
+                "phoneNumber": 7976794486
+            },
+            {
+                "name": "Prabhat Singh",
+                "phoneNumber": 9956044639
+            },
+            {
+                "name": "Abhishek D Nandan",
+                "phoneNumber": 8603111470
+            }
+        ]
+    },
+
+    {
+        "id": 123,
+        "name": "Dota 2",
+        "description": "",
+        "location": "",
+        "timestamp": 1,
+        "imageUrl": "",
+        "facebookEventLink": "https://www.facebook.com/events/2028223137463926/",
+        "additionalInfo": [],
+        "categories": [
+            "informal"
+        ],
+        "organizers": [
+            {
+                "name": "Srikar kvs",
+                "phoneNumber": 7237857583
+            },
+            {
+                "name": "Arpit Lohia",
+                "phoneNumber": 9404135374
+            }
+        ]
     }
 ]
