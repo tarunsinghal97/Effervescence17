@@ -16,15 +16,87 @@
 		"categories": [
 			"Online Music Streaming Partner"
 		],
-		"priority": 1
+		"priority": 10
 	},
 	{
 		"id": 1003,
+		"name": "The College Fever",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/the_college_fever.png",
+		"categories": [
+			"Online Ticket Partner"
+		],
+		"priority": 10
+	},
+	{
+		"id": 1004,
+		"name": "ZNetLive",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/znetline.png",
+		"categories": [
+			"Web Hosting Partner"
+		],
+		"priority": 10
+	},
+	{
+		"id": 1005,
+		"name": "Atlas Cycles",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/atlas_cycles.jpg",
+		"categories": [
+			"Mobility Partner"
+		],
+		"priority": 12
+	},
+	{
+		"id": 1006,
+		"name": "Paisa Wapas",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/paisa_wapas.png",
+		"categories": [
+			"Cashback Partner"
+		],
+		"priority": 11
+	},
+	{
+		"id": 1007,
+		"name": "Nescafe Labs",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/nescafe_labs.png",
+		"categories": [
+			"Talent Partner"
+		],
+		"priority": 11
+	},
+	{
+		"id": 1008,
+		"name": "Baskin Robbins",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/baskin_robbins.png",
+		"categories": [
+			"Food Partner"
+		],
+		"priority": 10
+	},
+	{
+		"id": 1009,
+		"name": "Six Strings",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/six_strings.jpg",
+		"categories": [
+			"Recording Partner"
+		],
+		"priority": 12
+	},
+	{
+		"id": 1010,
 		"name": "ManForce",
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/manforce.png",
 		"categories": [
 			"Protection Partner"
 		],
-		"priority": 1
+		"priority": 11
+	},
+	{
+		"id": 1011,
+		"name": "Brain Buxa",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/brain_buxa.png",
+		"categories": [
+			"Online Media Partner"
+		],
+		"priority": 10
 	}
 ]
