@@ -2,7 +2,7 @@
 	{
 		"id": 1001,
 		"name": "FBB",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/fbb.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fbb.png",
 		"categories": [
 			"Title Sponsor",
 			"A'la Mode"
@@ -12,7 +12,7 @@
 	{
 		"id": 1002,
 		"name": "Saavn",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/saavn.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/saavn.png",
 		"categories": [
 			"Online Music Streaming Partner"
 		],
@@ -21,7 +21,7 @@
 	{
 		"id": 1003,
 		"name": "The College Fever",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/the_college_fever.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/the_college_fever.png",
 		"categories": [
 			"Online Ticket Partner"
 		],
@@ -30,7 +30,7 @@
 	{
 		"id": 1004,
 		"name": "ZNetLive",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/znetline.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/znetline.png",
 		"categories": [
 			"Web Hosting Partner"
 		],
@@ -39,7 +39,7 @@
 	{
 		"id": 1005,
 		"name": "Atlas Cycles",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/atlas_cycles.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/atlas_cycles.jpg",
 		"categories": [
 			"Mobility Partner"
 		],
@@ -48,7 +48,7 @@
 	{
 		"id": 1006,
 		"name": "Paisa Wapas",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/paisa_wapas.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/paisa_wapas.png",
 		"categories": [
 			"Cashback Partner"
 		],
@@ -57,7 +57,7 @@
 	{
 		"id": 1007,
 		"name": "Nescafe Labs",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/nescafe_labs.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/nescafe_labs.png",
 		"categories": [
 			"Talent Partner"
 		],
@@ -66,7 +66,7 @@
 	{
 		"id": 1008,
 		"name": "Baskin Robbins",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/baskin_robbins.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/baskin_robbins.png",
 		"categories": [
 			"Food Partner"
 		],
@@ -75,7 +75,7 @@
 	{
 		"id": 1009,
 		"name": "Six Strings",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/six_strings.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/six_strings.jpg",
 		"categories": [
 			"Recording Partner"
 		],
@@ -84,7 +84,7 @@
 	{
 		"id": 1010,
 		"name": "ManForce",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/manforce.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/manforce.png",
 		"categories": [
 			"Protection Partner"
 		],
