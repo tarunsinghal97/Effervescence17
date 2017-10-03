@@ -289,7 +289,7 @@
 
 	{
 		"id": 113,
-		"name": "Android Gamer’s Asylum",
+		"name": "Android Gamer�s Asylum",
 		"description": "This event consists of a competition of popular Android Games like Mini Militia, Bomb Squad.",
 		"location": "",
 		"timestamp": 1508068800,
@@ -359,7 +359,7 @@
 	{
 		"id": 116,
 		"name": "Cricket Quiz",
-		"description": "Who was the first person to score 300 runs in a test match? If you’ve got the answers, we’ve got the competition and some really tough questions coming your way in this three-round quiz.",
+		"description": "Who was the first person to score 300 runs in a test match? If you�ve got the answers, we�ve got the competition and some really tough questions coming your way in this three-round quiz.",
 		"location": "",
 		"timestamp": 1507892400,
 		"imageUrl": "",
@@ -405,7 +405,7 @@
 	{
 		"id": 118,
 		"name": "Roadies",
-		"description": "If you’ve got the brains and the brawn, look no further for the ultimate test of your physical and mental strength. This is no mere reboot of the T.V. series.",
+		"description": "If you�ve got the brains and the brawn, look no further for the ultimate test of your physical and mental strength. This is no mere reboot of the T.V. series.",
 		"location": "",
 		"timestamp": 1507975200,
 		"imageUrl": "",
@@ -566,17 +566,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dance"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -589,17 +581,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dance"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -612,17 +596,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dance"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -635,17 +611,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -658,17 +626,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -681,17 +641,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -704,17 +656,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -727,40 +671,24 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
 		"id": 132,
 		"name": "Antakshari",
-		"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn’t you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
+		"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn�t you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
 		"location": "CC3",
 		"timestamp": 1,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/antakshari.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -773,17 +701,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"music"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -796,17 +716,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"music"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 
@@ -820,17 +732,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"music"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -843,17 +747,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -866,63 +762,39 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
 		"id": 138,
 		"name": "Dumb Charades",
-		"description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it’s all about dumb charades.",
+		"description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it�s all about dumb charades.",
 		"location": "CC3",
 		"timestamp": 1507816800,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
 		"id": 139,
 		"name": "One on One",
-		"description": "&#39;One on One’ brings with it, a platform to enhance your talking and debating skills.",
+		"description": "&#39;One on One� brings with it, a platform to enhance your talking and debating skills.",
 		"location": "Cafeteria",
 		"timestamp": 1507906800,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/oneonone.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -935,17 +807,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -958,17 +822,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -981,17 +837,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -1004,17 +852,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 	{
 		"id": 144,
@@ -1026,17 +866,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -1049,40 +881,24 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"AMS"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 	
 	{
 		"id": 146,
 		"name": "Mannequin Challenge",
-		"description": "A great gang, a pinch of creativity, a recorder and that’s all the ingredients required to fetch you cool prizes. So just play with your camera, juggle your mind and come with the most boggling mannequin.",
+		"description": "A great gang, a pinch of creativity, a recorder and that�s all the ingredients required to fetch you cool prizes. So just play with your camera, juggle your mind and come with the most boggling mannequin.",
 		"location": "",
 		"timestamp": 1,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/mannequin.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"AMS"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
 
 	{
@@ -1095,17 +911,9 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"AMS"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 0
-			},
-			{
-				"name": "",
-				"phoneNumber": 0
-			}
-		]
+		"organizers": []
 	},
  
 	{
@@ -1119,18 +927,9 @@
 		"additionalInfo": [],
 		"categories": [
 		    	"main stage",
-		    	"pro shows"
+		    	"dance"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	  },
 	
 	{
@@ -1144,18 +943,9 @@
 		"additionalInfo": [],
 		"categories": [
 		    	"main stage",
-		    	"pro shows"
+		    	"dramatics"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	},
 
 	{
@@ -1169,18 +959,9 @@
 		"additionalInfo": [],
 		"categories": [
 		    	"main stage",
-		    	"pro shows"
+		    	"music"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	},
 
 	{
@@ -1196,16 +977,7 @@
 		    	"main stage",
 		    	"pro shows"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	},
 
 	{
@@ -1221,16 +993,7 @@
 		    	"main stage",
 		    	"pro shows"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
         },
 
 	{
@@ -1246,16 +1009,7 @@
 		    	"main stage",
 		    	"pro shows"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	},
 
 	{
@@ -1271,16 +1025,7 @@
 		    	"main stage",
 		    	"pro shows"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	},
 
 	{
@@ -1296,15 +1041,6 @@
 		    	"main stage",
 		    	"pro shows"
 		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
+		"organizers": []
 	}
 ]
