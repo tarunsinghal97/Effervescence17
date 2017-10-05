@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3001,
+    "name": "Pranjal Paliwal",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/developers/pranjal.jpg",
+    "position": "Head, App Operations",
+    "gitHubLink":"https://github.com/betterclever"
+  },
+  {
+    "id": 3002,
+    "name": "Sashank Mishra",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/developers/sashank.jpg",
+    "position": "App Developer",
+    "gitHubLink":"https://github.com/sashank27"
+  },
+  {
+    "id": 3003,
+    "name": "Akshat Jain",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/developers/akshat.jpg",
+    "position": "App Developer",
+    "gitHubLink":"https://github.com/dabbler011"
+  }
+]
