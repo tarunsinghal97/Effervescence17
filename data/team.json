@@ -25,14 +25,14 @@
     "name": "Anurag Bharadwaj",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/anurag.jpg",
     "position": "Head, Sponsorship and Marketing",
-    "contact":""
+    "contact":"7840857048"
   },
   {
     "id": 2005,
     "name": "Jayesh Chaudhary",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/jayesh.jpg",
     "position": "Head, Pronites",
-    "contact":""
+    "contact":"8320846440"
   },
   {
     "id": 2006,
@@ -67,24 +67,38 @@
     "name": "Nitesh Gupta",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/nitesh.jpg",
     "position": "Head, Branding",
-    "contact":"8765923005"
+    "contact":"8601843952"
   },
   {
     "id": 2011,
+    "name": "Abhinav Khare",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/abhinav.jpg",
+    "position": "Head, Web Operations",
+    "contact":"8319473031"
+  },
+  {
+    "id": 2012,
+    "name": "Pranjal Paliwal",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/pranjal.jpg",
+    "position": "Head, App Operations",
+    "contact":"7988346558"
+  },
+  {
+    "id": 2013,
     "name": "Rohan Chaudhary",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/rohan.jpg",
     "position": "Head, Creatives",
     "contact":"7800161372"
   },
   {
-    "id": 2012,
+    "id": 2014,
     "name": "Rishabh Rai",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/rishab.jpg",
     "position": "Head, Creatives",
-    "contact":""
+    "contact":"8601843952"
   },
   {
-    "id": 2013,
+    "id": 2015,
     "name": "Nitish Verma",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/nitish.jpg",
     "position": "Head, Filming",
@@ -92,23 +106,9 @@
   },
   {
     "id": 2016,
-    "name": "Pranjal Paliwal",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/pranjal.jpg",
-    "position": "Head, App Operations",
-    "contact":"7988346558"
-  },
-  {
-    "id": 2014,
     "name": "Umang Narwal",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/umang.jpg",
     "position": "Head, Security",
-    "contact":""
-  },
-  {
-    "id": 2015,
-    "name": "Abhinav Khare",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/abhinav.jpg",
-    "position": "Head, Web Operations",
-    "contact":"8319473031"
+    "contact":"8398008080"
   }
 ]
