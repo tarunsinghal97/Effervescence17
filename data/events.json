@@ -5,7 +5,7 @@
 		"description": "Effervescence'17 presents to you the most entertaining event \"GULLY CRICKET\". Make your Team of Bluster and Come to play game of spirit. Win Cash and other exciting prizes...",
 		"location": "Tennis Court",
 		"timestamp": 1507786200,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/gully_cricket.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/gully_cricket.jpg",
 		"facebookEventLink": "https://www.facebook.com/events/1113514188781807/",
 		"additionalInfo": [],
 		"categories": [
@@ -248,7 +248,7 @@
 		"location": "CC-3",
 		"timestamp": 1507973400,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/csgo.png",
-    "facebookEventLink": "https://www.facebook.com/events/723040291222111/",
+    	"facebookEventLink": "https://www.facebook.com/events/723040291222111/",
 		"additionalInfo": [],
 		"categories": [
 			"informal"

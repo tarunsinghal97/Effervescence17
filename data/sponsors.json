@@ -7,7 +7,7 @@
 			"Title Sponsor",
 			"A'la Mode"
 		],
-		"priority": 0
+		"priority": 5
 	},
 	{
 		"id": 1002,
@@ -98,5 +98,59 @@
 			"Online Media Partner"
 		],
 		"priority": 10
+	},
+	{
+		"id": 1012,
+		"name": "T.I.M.E.",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/time.jpg",
+		"categories": [
+			"Education Partner"
+		],
+		"priority": 11
+	},
+	{
+		"id": 1013,
+		"name": "Pind Balluchi",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pind_balluchi.png",
+		"categories": [
+			"Celebrity Food Partner"
+		],
+		"priority": 12
+	},
+	{
+		"id": 1014,
+		"name": "Student Stories",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/student_stories.png",
+		"categories": [
+			"Online Media Partner"
+		],
+		"priority": 10
+	},
+	{
+		"id": 1015,
+		"name": "blogadda",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/blogadda.png",
+		"categories": [
+			"Blogger Outreach Partner"
+		],
+		"priority": 12
+	},
+	{
+		"id": 1016,
+		"name": "R D Advertising",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/rd_advertising.png",
+		"categories": [
+			"Branding Partner"
+		],
+		"priority": 13
+	},
+	{
+		"id": 1017,
+		"name": "Comio India",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/comio.png",
+		"categories": [
+			"Title Sponsor"
+		],
+		"priority": 0
 	}
 ]
