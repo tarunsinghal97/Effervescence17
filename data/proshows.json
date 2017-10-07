@@ -24,7 +24,23 @@
 		"id": 404,
 		"title": "HUMOUR NIGHT",
 		"date": "15th October",
-		"description": "Even if laughter doesn't add years to you life, it surely adds life to your years. Effervescence'17 presents to you the Humour Night for the very first time. We're bringing in the pros, to help you forget your woes, at least for that one night!",
+		"description":"The best thing about comedians apart from their wit and talent, is their confidence to bring out the mirth in small things! Known as one of the Rising Stars of Comedy in India, is one such comedian, Abijit Ganguly! Tackling the most mundane Indian problems though his humor, he has performed stand up acts all over the country and entertained every generation. We're bringing in the pros, to help you forget your woes! So, prepare to burst your lungs out and laugh to the rant of the leading stand up comedian - Mr Abijit Ganguly on the Humor Night of Effervescence'17!",
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/humour.jpg"
+	},
+	{
+		"id": 405,
+		"title": "HORIZON",
+		"date": "12th October",
+		"description":"Witness international artists perform live and engulf yourselves in the extravagance of art and culture at Horizon, Effervescence'17, we bring to you, Carlos Elliot Jr. Known as Latin America’s most internationally acclaimed independent artists, Carlos is considered the pioneer of Mississippi Hill Country Blues. Don't miss the chance to get the feel of juke joints and backyard parties!",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/carlos.jpg"		
+	},
+	{
+		"id": 406,
+		"title": "HORIZON",
+		"date": "13th October",
+		"description":"Extending the star-studded lineup further towards foreign lands, we are thrilled to announce the arrival of Alaska Snack Time, the famous Israeli band, to blend our theme 'An Indian Affair' with their own culture. Known for their remarkable work in the mix of electronic music, African rhythms, hip-hop and even jazz, this band is all set to provide a refreshing new experience that leaves no indifferent ear!",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/alaska.jpg"	
 	}
 ]
+
+
