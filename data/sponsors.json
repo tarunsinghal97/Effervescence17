@@ -7,6 +7,7 @@
 			"Title Sponsor",
 			"A'la Mode"
 		],
+		"website": "http://www.fbbonline.in/",
 		"priority": 5
 	},
 	{
@@ -16,6 +17,7 @@
 		"categories": [
 			"Online Music Streaming Partner"
 		],
+		"website": "https://www.saavn.com/",
 		"priority": 10
 	},
 	{
@@ -25,6 +27,7 @@
 		"categories": [
 			"Online Ticket Partner"
 		],
+		"website": "https://www.thecollegefever.com/",
 		"priority": 10
 	},
 	{
@@ -34,6 +37,7 @@
 		"categories": [
 			"Web Hosting Partner"
 		],
+		"website": "https://www.znetlive.com/",
 		"priority": 10
 	},
 	{
@@ -43,6 +47,7 @@
 		"categories": [
 			"Mobility Partner"
 		],
+		"website": "www.atlascycles.co.in/",
 		"priority": 12
 	},
 	{
@@ -52,6 +57,7 @@
 		"categories": [
 			"Cashback Partner"
 		],
+		"website": "https://www.paisawapas.com/",
 		"priority": 11
 	},
 	{
@@ -61,6 +67,7 @@
 		"categories": [
 			"Talent Partner"
 		],
+		"website": "www.mtvindia.com/labs/",
 		"priority": 11
 	},
 	{
@@ -70,6 +77,7 @@
 		"categories": [
 			"Food Partner"
 		],
+		"website": "www.baskinrobbinsindia.com/",
 		"priority": 10
 	},
 	{
@@ -79,6 +87,7 @@
 		"categories": [
 			"Recording Partner"
 		],
+		"website": "www.thesixstrings.com/",
 		"priority": 12
 	},
 	{
@@ -88,6 +97,7 @@
 		"categories": [
 			"Protection Partner"
 		],
+		"website": "https://manforcecondoms.com/",
 		"priority": 11
 	},
 	{
@@ -97,6 +107,7 @@
 		"categories": [
 			"Online Media Partner"
 		],
+		"website": "https://www.brainbuxa.com/",
 		"priority": 10
 	},
 	{
@@ -106,6 +117,7 @@
 		"categories": [
 			"Education Partner"
 		],
+		"website": "https://www.time4education.com/",
 		"priority": 11
 	},
 	{
@@ -115,6 +127,7 @@
 		"categories": [
 			"Celebrity Food Partner"
 		],
+		"website": "www.pindballuchi.com/",
 		"priority": 12
 	},
 	{
@@ -124,6 +137,7 @@
 		"categories": [
 			"Online Media Partner"
 		],
+		"website": "https://www.paisawapas.com/student-stories/",
 		"priority": 10
 	},
 	{
@@ -133,6 +147,7 @@
 		"categories": [
 			"Blogger Outreach Partner"
 		],
+		"website": "www.blogadda.com/",
 		"priority": 12
 	},
 	{
@@ -142,6 +157,7 @@
 		"categories": [
 			"Branding Partner"
 		],
+		"website": "www.rdadvertising.org/",
 		"priority": 13
 	},
 	{
@@ -151,6 +167,7 @@
 		"categories": [
 			"Title Sponsor"
 		],
+		"website": "https://www.comio.in/",
 		"priority": 0
 	}
 ]
