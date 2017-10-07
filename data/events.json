@@ -11,7 +11,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Ashutosh Vishwakarma",
 				"phoneNumber": 9457611044
 			},
@@ -21,7 +22,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 102,
 		"name": "Perplexus",
@@ -34,7 +34,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Abhishek D Nandan",
 				"phoneNumber": 8603111470
 			},
@@ -44,7 +45,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 103,
 		"name": "Stegolica",
@@ -57,7 +57,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Aseem Shrey",
 				"phoneNumber": 9455245705
 			},
@@ -67,7 +68,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 104,
 		"name": "Futsal",
@@ -80,7 +80,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Badnena Upendra",
 				"phoneNumber": 9831474771
 			},
@@ -94,7 +95,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 105,
 		"name": "Blind Date",
@@ -107,7 +107,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Pallak Srivastava",
 				"phoneNumber": 7379458308
 			},
@@ -117,7 +118,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 106,
 		"name": "Night on Boards",
@@ -130,7 +130,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Shubham Varshney",
 				"phoneNumber": 7052065360
 			},
@@ -144,7 +145,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 107,
 		"name": "China Town",
@@ -157,7 +157,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Aditya Goel",
 				"phoneNumber": 9001791793
 			},
@@ -167,7 +168,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 108,
 		"name": "Tug-of-War",
@@ -180,7 +180,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Aswin",
 				"phoneNumber": 8281637530
 			},
@@ -194,7 +195,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 109,
 		"name": "Just A Minute",
@@ -207,7 +207,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Pradeep Kumar",
 				"phoneNumber": 8938922705
 			},
@@ -217,7 +218,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 110,
 		"name": "AdMania",
@@ -230,7 +230,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Sanika Surse",
 				"phoneNumber": 7380844608
 			},
@@ -240,7 +241,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 111,
 		"name": "Counter Strike Global Offensive",
@@ -248,12 +248,13 @@
 		"location": "CC-3",
 		"timestamp": 1507993200,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/csgo.png",
-    	"facebookEventLink": "https://www.facebook.com/events/723040291222111/",
+		"facebookEventLink": "https://www.facebook.com/events/723040291222111/",
 		"additionalInfo": [],
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Raghav Khandelwal",
 				"phoneNumber": 9414038742
 			},
@@ -263,7 +264,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 112,
 		"name": "Fifa17",
@@ -276,7 +276,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Rohit Kumar",
 				"phoneNumber": 8174015678
 			},
@@ -286,20 +287,20 @@
 			}
 		]
 	},
-
 	{
 		"id": 113,
-		"name": "Android Gamer�s Asylum",
+		"name": "Android Gamer's Asylum",
 		"description": "This event consists of a competition of popular Android Games like Mini Militia, Bomb Squad.",
 		"location": "CC-3",
-		"timestamp": 1508068800,
+		"timestamp": 1507914000,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/android.png",
 		"facebookEventLink": "https://www.facebook.com/events/831286057040427/",
 		"additionalInfo": [],
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Harsh Jain",
 				"phoneNumber": 8349454791
 			},
@@ -309,7 +310,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 114,
 		"name": "Paanipuri Junction",
@@ -322,7 +322,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Aanandita Dhawan",
 				"phoneNumber": 8957065531
 			},
@@ -332,7 +333,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 115,
 		"name": "TV Series Quiz",
@@ -345,7 +345,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Akash Mishra",
 				"phoneNumber": 9696427244
 			},
@@ -355,7 +356,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 116,
 		"name": "Cricket Quiz",
@@ -368,7 +368,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Piyush Gurnule",
 				"phoneNumber": 7276575280
 			},
@@ -378,7 +379,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 117,
 		"name": "Animania",
@@ -391,7 +391,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Parth Agarwal",
 				"phoneNumber": 9557646688
 			},
@@ -401,7 +402,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 118,
 		"name": "Roadies",
@@ -414,7 +414,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Shreyansh Chaudhary",
 				"phoneNumber": 9559155755
 			},
@@ -428,7 +429,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 119,
 		"name": "Photobooth",
@@ -441,7 +441,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Ankit jain",
 				"phoneNumber": 7597604467
 			},
@@ -455,20 +456,20 @@
 			}
 		]
 	},
-
 	{
 		"id": 120,
 		"name": "Arm Wrestling",
 		"description": "Come show where the hours you put into the gym and the push-ups and chin-ups you do have taken you in the competition where the strongest prevails!!",
 		"location": "",
-		"timestamp": 1507996800,
+		"timestamp": 1507995000,
 		"imageUrl": "",
 		"facebookEventLink": "https://www.facebook.com/events/132469360716340/",
 		"additionalInfo": [],
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Akshay Kumar",
 				"phoneNumber": 8002430834
 			},
@@ -478,7 +479,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 121,
 		"name": "Basketball",
@@ -491,7 +491,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Nishant Malik",
 				"phoneNumber": 7252920582
 			},
@@ -501,7 +502,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 122,
 		"name": "Treasure Hunt",
@@ -514,7 +514,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Swapnesh Narayan",
 				"phoneNumber": 9839775664
 			},
@@ -532,7 +533,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 123,
 		"name": "Dota 2",
@@ -545,7 +545,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
+		"organizers": [
+			{
 				"name": "Srikar kvs",
 				"phoneNumber": 7237857583
 			},
@@ -555,7 +556,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 124,
 		"name": "La Frenze",
@@ -570,7 +570,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 125,
 		"name": "Carpe Diem",
@@ -585,7 +584,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 126,
 		"name": "Show off",
@@ -600,7 +598,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 127,
 		"name": "Bindass Bol (Nukkad Natak)",
@@ -615,22 +612,6 @@
 		],
 		"organizers": []
 	},
-
-	{
-		"id": 128,
-		"name": "Director's Cut",
-		"description": "An online short film making competition on a theme.",
-		"location": "",
-		"timestamp": 1507827600,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/directors.jpg",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"dramatics"
-		],
-		"organizers": []
-	},
-
 	{
 		"id": 129,
 		"name": "Tongues On Fire",
@@ -645,7 +626,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 130,
 		"name": "Double Trouble",
@@ -660,7 +640,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 131,
 		"name": "Kahani",
@@ -675,7 +654,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 132,
 		"name": "Antakshari",
@@ -690,7 +668,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 133,
 		"name": "Unplugged",
@@ -705,13 +682,12 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 134,
 		"name": "Psychedelia",
 		"description": "Psychedellia is the mainstage non-competitive event for Musical Bands, with no judges. Being a mainstage event of Effervescence, it presents you with an opportunity that will always be a win win situation.",
 		"location": "Main Stage",
-		"timestamp": 1508076000,
+		"timestamp": 1508000400,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/psychedelia.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -720,14 +696,12 @@
 		],
 		"organizers": []
 	},
-
-
 	{
 		"id": 135,
 		"name": "Melodeiux",
 		"description": "Melodieux is a competitive music event organised for just singers. May the one with the best voice win!",
 		"location": "Main Audi",
-		"timestamp": 1507903200,
+		"timestamp": 1508068800,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/melodeiux.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -736,7 +710,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 136,
 		"name": "Feathers",
@@ -751,7 +724,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 137,
 		"name": "Cognoscentia",
@@ -766,13 +738,12 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 138,
 		"name": "Dumb Charades",
 		"description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it�s all about dumb charades.",
 		"location": "CC3",
-		"timestamp": 1507816800,
+		"timestamp": 1507982400,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -781,7 +752,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 139,
 		"name": "One on One",
@@ -796,7 +766,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 140,
 		"name": "Meme Slam",
@@ -811,7 +780,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 141,
 		"name": "Sketcher",
@@ -826,7 +794,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 142,
 		"name": "Face Painting",
@@ -841,7 +808,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 143,
 		"name": "Graffiti",
@@ -870,7 +836,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 145,
 		"name": "Tasveer",
@@ -885,7 +850,6 @@
 		],
 		"organizers": []
 	},
-	
 	{
 		"id": 146,
 		"name": "Mannequin Challenge",
@@ -900,7 +864,6 @@
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 147,
 		"name": "Safar",
@@ -915,7 +878,6 @@
 		],
 		"organizers": []
 	},
- 
 	{
 		"id": 148,
 		"name": "Footloose",
@@ -926,12 +888,11 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"dance"
+			"main stage",
+			"dance"
 		],
 		"organizers": []
-	  },
-	
+	},
 	{
 		"id": 149,
 		"name": "Innovation",
@@ -942,12 +903,11 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"dramatics"
+			"main stage",
+			"dramatics"
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 150,
 		"name": "Incendiary",
@@ -958,12 +918,11 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"music"
+			"main stage",
+			"music"
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 151,
 		"name": "EDM Night",
@@ -974,12 +933,11 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"pro shows"
+			"main stage",
+			"pro shows"
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 152,
 		"name": "Humour Night",
@@ -990,12 +948,11 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"pro shows"
+			"main stage",
+			"pro shows"
 		],
 		"organizers": []
-        },
-
+	},
 	{
 		"id": 153,
 		"name": "Bollywood Night",
@@ -1006,15 +963,14 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"pro shows"
+			"main stage",
+			"pro shows"
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 154,
-		"name": "Headliner",
+		"name": "Rock Night",
 		"description": "The standard has been set high with The Local Train performing in the previous edition and bigger and better can surely be expected in this edition.",
 		"location": "Main Stage",
 		"timestamp": 1508022000,
@@ -1022,12 +978,11 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"pro shows"
+			"main stage",
+			"pro shows"
 		],
 		"organizers": []
 	},
-
 	{
 		"id": 155,
 		"name": "A'La Mode",
@@ -1038,8 +993,8 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"pro shows"
+			"main stage",
+			"pro shows"
 		],
 		"organizers": []
 	}
