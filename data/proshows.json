@@ -1,30 +1,30 @@
 [
-  {
-    "id": 401,
-    "title": "CELEB NIGHT",
-    "date": "15th October",
-    "description": "They say that when you become a celebrity ,you own the world and the world owns you. So get ready to own the world as the bar has been raised up higher. After superstars like Neha Kakkar and Benny Dayal, Effervescence’17 proudly presents to you Farhan Akhtar on MTV Beats Night this October !"
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/farhan.jpg"
-  },
-  {
-    "id": 402,
-    "title": "EDM NIGHT",
-    "date": "13th October",
-    "description": "EDM isn’t just about drops and rave, it is the form of music that has something to offer to everyone. Get ready to match you heartbeats with the beats and drops and dance your heart out with famous Portuguese DJ duos, Club Banditz, all set to raise the electric mood in the atmosphere!"
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/edm.jpg"
-  },
-  {
-    "id": 403,
-    "title": "KAVYOM",
-    "date": "14th October",
-    "description": "Gear up to enjoy the Infinite Sky of Poetry at Kavyom, being held for the very first time in IIIT Allahabad. Relish an indelible and a stupendous evening with the one and only, Kumar Vishwas. It is doubtlessly going to be the most congenial event for all poetry lovers out there."
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/kumar.jpg"
-  },
-  {
-    "id": 404,
-    "title": "HUMOUR NIGHT",
-    "date": "15th October",
-    "description": "Even if laughter doesn't add years to you life, it surely adds life to your years. Effervescence'17 presents to you the Humour Night for the very first time. We're bringing in the pros, to help you forget your woes, at least for that one night!"
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/humour.jpg"
-  }
+	{
+		"id": 401,
+		"title": "CELEB NIGHT",
+		"date": "15th October",
+		"description": "They say that when you become a celebrity ,you own the world and the world owns you. So get ready to own the world as the bar has been raised up higher. After superstars like Neha Kakkar and Benny Dayal, Effervescence’17 proudly presents to you Farhan Akhtar on MTV Beats Night this October!",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/farhan.jpg"
+	},
+	{
+		"id": 402,
+		"title": "EDM NIGHT",
+		"date": "13th October",
+		"description": "EDM isn’t just about drops and rave, it is the form of music that has something to offer to everyone. Get ready to match you heartbeats with the beats and drops and dance your heart out with famous Portuguese DJ duos, Club Banditz, all set to raise the electric mood in the atmosphere!",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/edm.jpg"
+	},
+	{
+		"id": 403,
+		"title": "KAVYOM",
+		"date": "14th October",
+		"description": "Gear up to enjoy the Infinite Sky of Poetry at Kavyom, being held for the very first time in IIIT Allahabad. Relish an indelible and a stupendous evening with the one and only, Kumar Vishwas. It is doubtlessly going to be the most congenial event for all poetry lovers out there.",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/kumar.jpg"
+	},
+	{
+		"id": 404,
+		"title": "HUMOUR NIGHT",
+		"date": "15th October",
+		"description": "Even if laughter doesn't add years to you life, it surely adds life to your years. Effervescence'17 presents to you the Humour Night for the very first time. We're bringing in the pros, to help you forget your woes, at least for that one night!",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/proshows/humour.jpg"
+	}
 ]
