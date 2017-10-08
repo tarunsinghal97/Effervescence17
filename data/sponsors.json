@@ -319,5 +319,85 @@
       ],
       "website":"http://embassies.gov.il/delhi/Pages/default.aspx",
       "priority":17
-   }
+   },
+	{
+		"id": 915,
+		"name": "Symphony Coolers",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/symphony.jpg",
+		"categories": [
+			"Associate Sponsor"
+		],
+		"website": "http://www.symphonylimited.com/",
+		"priority": 15
+	},
+	{
+		"id": 916,
+		"name": "Entrench Electronics",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/entrench.png",
+		"categories": [
+			"Workshop Partner"
+		],
+		"website": "entrench.in/",
+		"priority": 16
+	},
+	{
+		"id": 917,
+		"name": "Amul",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/amul.png",
+		"categories": [
+			"Dairy Product Partner"
+		],
+		"website": "http://www.amul.com/",
+		"priority": 14
+	},
+	{
+		"id": 918,
+		"name": "Asteroid Learning",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/asteroid.png",
+		"categories": [
+			"Workshop Partner"
+		],
+		"website": "http://www.asteroidlearning.com/",
+		"priority": 16
+	},
+	{
+		"id": 919,
+		"name": "Max",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/max.png",
+		"categories": [
+			"Apparel Partner"
+		],
+		"website": "http://www.maxfashion.in/",
+		"priority": 15
+	},
+	{
+		"id": 920,
+		"name": "Youth4Work",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/youth.png",
+		"categories": [
+			"Online Media Partner"
+		],
+		"website": "https://www.youth4work.com/",
+		"priority": 10
+	},
+	{
+		"id": 926,
+		"name": "Youth Incorporated",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/incorporated.jpg",
+		"categories": [
+			"Youth Partner"
+		],
+		"website": "http://www.youthincmag.com/",
+		"priority": 15
+	},
+	{
+		"id": 927,
+		"name": "Shadow Mountain",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/shadow.jpg",
+		"categories": [
+			"Adventure Partner"
+		],
+		"website": "",
+		"priority": 16
+	}
 ]

@@ -997,5 +997,21 @@
 			"pro shows"
 		],
 		"organizers": []
-	}
+	},
+
+	{
+		"id": 156,
+		"name": "Celebrity Night",
+		"description": "Mark your calendars as the limelight of the Bollywood Music Industry is all set to ablaze the stage of IIIT Allahabad on 15th October. With Chartbusters such as Rock On! and Zindagi Na Milegi Dobara under his name, it’s going to be a night extraordinaire.",
+		"location": "Main Stage",
+		"timestamp": 1508095800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/celebnight.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	}	
 ]
