@@ -211,16 +211,6 @@
       "priority":5
    },
    {  
-      "id":1505,
-      "name":"go krazee",
-      "imageUrl":"",
-      "categories":[  
-         "Event Sponsor"
-      ],
-      "website":"",
-      "priority":10
-   },
-   {  
       "id":1506,
       "name":"Awesong",
       "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/awesong.png",
@@ -311,16 +301,6 @@
       "priority":7
    },
    {  
-      "id":1515,
-      "name":"Eventzers",
-      "imageUrl":"",
-      "categories":[  
-         "Online Media Partner"
-      ],
-      "website":"",
-      "priority":8
-   },
-   {  
       "id":1516,
       "name":"Grapevine",
       "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/grapewine.png",
@@ -329,26 +309,6 @@
       ],
       "website":"http://www.thegrapevine.co.in/",
       "priority":6
-   },
-   {  
-      "id":1517,
-      "name":"S.S Paints",
-      "imageUrl":"",
-      "categories":[  
-         "Event Sponsor"
-      ],
-      "website":"https://www.indiamart.com/ss-paints/",
-      "priority":10
-   },
-   {  
-      "id":1518,
-      "name":"Bun's Gym",
-      "imageUrl":"",
-      "categories":[  
-         "Event Sponsor"
-      ],
-      "website":"",
-      "priority":10
    },
    {  
       "id":1519,
