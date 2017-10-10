@@ -783,12 +783,21 @@
 		"location": "CC3",
 		"timestamp": 1508065200,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/cognoscentia.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/141002776519860/?ref=br_rs",
 		"additionalInfo": [],
 		"categories": [
 			"literature"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Ravi Charan",
+				"phoneNumber": 8187048426
+			},
+			{
+				"name": "Akash Mishra",
+				"phoneNumber": 9696427244
+			}
+		]
 	},
 	{
 		"id": 138,
@@ -802,12 +811,21 @@
 		"categories": [
 			"literature"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Prafull Mishra",
+				"phoneNumber": 9838224416
+			},
+			{
+				"name": "Kartik Madaan",
+				"phoneNumber": 9650289599
+			}
+		]
 	},
 	{
 		"id": 139,
-		"name": "One on One",
-		"description": "\"One on One\" brings with it, a platform to enhance your talking and debating skills.",
+		"name": "Crossroads",
+		"description": "\"Crossroads\" brings with it, a platform to enhance your talking and debating skills.",
 		"location": "Cafeteria",
 		"timestamp": 1507905000,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/oneonone.jpg",
@@ -816,7 +834,20 @@
 		"categories": [
 			"literature"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Bhanu Bhandari",
+				"phoneNumber": 9958159280
+			},
+			{
+				"name": "Mantek Singh",
+				"phoneNumber": 8008465118
+			},
+			{
+				"name": "Niharika Gali",
+				"phoneNumber": 9494479776
+			}
+		]
 	},
 	{
 		"id": 140,
