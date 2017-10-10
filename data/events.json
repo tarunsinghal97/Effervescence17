@@ -48,10 +48,10 @@
 	{
 		"id": 103,
 		"name": "Stegolica",
-		"description": "A delight for all the aspiring hackers, Stegolica is an online  competition where you are expeceted to get the HIDDEN secret key but be aware because @wareness is the key .",
-		"location": "",
+		"description": "A delight for all the aspiring hackers, Stegolica is an online competition where you are expected to get the HIDDEN secret key but be aware because @wareness is the key .",
+		"location": "Online",
 		"timestamp": 1507932000,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/stegolica.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/stegolica.jpg",
 		"facebookEventLink": "https://www.facebook.com/events/120071321999931/",
 		"additionalInfo": [],
 		"categories": [
