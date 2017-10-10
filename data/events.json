@@ -664,9 +664,22 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"dramatics"
+			"music"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Niharika Shrivastava",
+				"phoneNumber": 9869338372
+			},
+			{
+				"name": "Gauri Kesarwani",
+				"phoneNumber": 8303220294
+			},
+			{
+				"name": "Anagh Rao",
+				"phoneNumber": 7396500000
+			}
+		]
 	},
 	{
 		"id": 133,
@@ -675,12 +688,25 @@
 		"location": "Main Audi",
 		"timestamp": 1508076000,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/unplugged.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/386737538411192/",
 		"additionalInfo": [],
 		"categories": [
 			"music"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Arpit Bahety",
+				"phoneNumber": 99924484847
+			},
+			{
+				"name": "Rahul Gyawali",
+				"phoneNumber": 7755834908
+			},
+			{
+				"name": "Harshit Srivastava",
+				"phoneNumber": 7081934678
+			}
+		]
 	},
 	{
 		"id": 134,
@@ -694,7 +720,20 @@
 		"categories": [
 			"music"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Vivek Tiwari",
+				"phoneNumber": 9540488830
+			},
+			{
+				"name": "Siddharth Vats",
+				"phoneNumber": 9997987345
+			},
+			{
+				"name": "Kajol",
+				"phoneNumber": 9455293908
+			}
+		]
 	},
 	{
 		"id": 135,
@@ -703,12 +742,25 @@
 		"location": "Main Audi",
 		"timestamp": 1508068800,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/melodeiux.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/profile.php?id=300500913761591&ref=br_rs",
 		"additionalInfo": [],
 		"categories": [
 			"music"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Niharika Shrivastava",
+				"phoneNumber": 9869338372
+			},
+			{
+				"name": "Sominee Gupta",
+				"phoneNumber": 7376410225
+			},
+			{
+				"name": "Aashutosh Khandelwal",
+				"phoneNumber": 9088368138
+			}
+		]
 	},
 	{
 		"id": 136,
