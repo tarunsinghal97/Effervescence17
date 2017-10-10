@@ -190,7 +190,7 @@
 				"phoneNumber": 8281358507
 			},
 			{
-				"name": "Dhruval CR",
+				"name": "Druval CR",
 				"phoneNumber": 9496814630
 			}
 		]
@@ -359,7 +359,7 @@
 	{
 		"id": 116,
 		"name": "Cricket Quiz",
-		"description": "Who was the first person to score 300 runs in a test match? If you�ve got the answers, we�ve got the competition and some really tough questions coming your way in this three-round quiz.",
+		"description": "Who was the first person to score 300 runs in a test match? If you've got the answers, we've got the competition and some really tough questions coming your way in this three-round quiz.",
 		"location": "CC-3",
 		"timestamp": 1507892400,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/cricket.png",
@@ -657,7 +657,7 @@
 	{
 		"id": 132,
 		"name": "Antakshari",
-		"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn�t you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
+		"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn't you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
 		"location": "CC3",
 		"timestamp": 1507899600,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/antakshari.jpg",
@@ -793,7 +793,7 @@
 	{
 		"id": 138,
 		"name": "Dumb Charades",
-		"description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it�s all about dumb charades.",
+		"description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it's all about dumb charades.",
 		"location": "CC3",
 		"timestamp": 1507982400,
 		"imageUrl": "",
@@ -807,7 +807,7 @@
 	{
 		"id": 139,
 		"name": "One on One",
-		"description": "&#39;One on One� brings with it, a platform to enhance your talking and debating skills.",
+		"description": "\"One on One\" brings with it, a platform to enhance your talking and debating skills.",
 		"location": "Cafeteria",
 		"timestamp": 1507905000,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/oneonone.jpg",
