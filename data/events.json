@@ -48,11 +48,11 @@
 	{
 		"id": 103,
 		"name": "Stegolica",
-		"description": "A delight for all the aspiring hackers and crackers , Stegolica is an online cryptography competition which has one of the most toughest competitors trying to prove themselves.",
+		"description": "A delight for all the aspiring hackers, Stegolica is an online  competition where you are supped to get the HIDDEN secret key but be aware because @wareness is the key .",
 		"location": "",
 		"timestamp": 1507932000,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/stegolica.png",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/120071321999931/",
 		"additionalInfo": [],
 		"categories": [
 			"informal"
