@@ -450,10 +450,6 @@
 				"phoneNumber": 7597604467
 			},
 			{
-				"name": "Sanam Bahadur",
-				"phoneNumber": 7404559522
-			},
-			{
 				"name": "Nikhil Mundra",
 				"phoneNumber": 9919799191
 			}
@@ -1017,7 +1013,20 @@
 		"categories": [
 			"AMS"
 		],
-		"organizers": []
+		"organizers": [
+		        {
+				"name": "Ashwin Tagde",
+				"phoneNumber": 7408235250
+			},
+			{
+				"name": "Nitish Verma",
+				"phoneNumber": 8765923005
+			},
+			{
+			        "name": "Richa Vinian",
+				"phoneNumber": 8400114665
+			}
+		]
 	},
 	{
 		"id": 146,
@@ -1031,7 +1040,16 @@
 		"categories": [
 			"AMS"
 		],
-		"organizers": []
+		"organizers": [
+		        {
+				"name": "Ajitesh  Gupta",
+				"phoneNumber": 9005374250
+			},
+			{
+			        "name": "Siddhanth Srivastav",
+				"phoneNumber": 8765531793
+			}
+		]
 	},
 	{
 		"id": 147,
@@ -1045,7 +1063,16 @@
 		"categories": [
 			"AMS"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Siddharth Simharaju",
+				"phoneNumber": 8299061623
+			},
+			{
+			        "name": "Saksham Singh",
+				"phoneNumber": 9161896720
+			}
+		]
 	},
 	{
 		"id": 148,
