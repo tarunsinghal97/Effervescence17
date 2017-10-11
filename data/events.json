@@ -902,7 +902,22 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Avinash Yadav",
+				"phoneNumber": 7524990644
+			},
+			{
+				"name": "Manavdeep Singh",
+				"phoneNumber": 7706904885
+			},
+			{	
+				"name": "Nitin Vijay",
+                                "phoneNumber": 9793016386
+			}
+			       
+		]
+ 	
 	},
 	{
 		"id": 142,
@@ -916,7 +931,20 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": []
+		"organizers": [
+		        {
+				"name": "Pratyay Kumar",
+				"phoneNumber": 8987599864
+			},
+			{
+				"name": "Aditi Bansal",
+				"phoneNumber": 8604833407
+			},
+			{
+			        "name": "Avinash Yadav",
+				"phoneNumber": 7524990644
+			}
+		]
 	},
 	{
 		"id": 143,
@@ -930,7 +958,21 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Vinit Mankar",
+				"phoneNumber": 7706020707
+			},
+			{
+				"name": "Lekhika Dugtal",
+				"phoneNumber": 8588962787
+			},
+			{
+			        "name": "Prakash Kumar",
+				"phoneNumber": 7361938303
+			}
+			       
+		]
 	},
 	{
 		"id": 144,
@@ -944,7 +986,20 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": []
+		"organizers": [
+		        {
+				"name": "Sanam Bahadur",
+				"phoneNumber": 7376286670
+			},
+			{
+				"name": "Akanksha Goyal",
+				"phoneNumber": 9458466390
+			},
+			{
+			        "name": "Manavdeep Singh",
+				"phoneNumber": 7706904885
+			}
+		]
 	},
 	{
 		"id": 145,
