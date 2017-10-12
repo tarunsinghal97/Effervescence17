@@ -614,7 +614,19 @@
 		"categories": [
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Sudhanshu Shakya",
+				"phoneNumber": 8439357480
+			},
+			{
+				"name": "Hiral Agrawal",
+				"phoneNumber": 9452439387
+			},
+			{
+				"name": "Madhur Gupta",
+				"phoneNumber": 8800846806
+			}
+		]
 	},
 	{
 		"id": 129,
@@ -628,7 +640,15 @@
 		"categories": [
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Sakshi Shrivas",
+				"phoneNumber": 8354890780
+			},
+			{
+				"name": "Mukul Singh",
+				"phoneNumber": 8090200805
+			}
+		]
 	},
 	{
 		"id": 130,
@@ -642,12 +662,25 @@
 		"categories": [
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Princy Pathak",
+				"phoneNumber": 7599396139
+			},
+			{
+				"name": "Dhruv Thadani",
+				"phoneNumber": 7860455433
+			},
+			{
+				"name": "Utkarsh Chaurasia",
+				"phoneNumber": 9897211432
+
+			}
+		]
 	},
 	{
 		"id": 131,
 		"name": "Kahani",
-		"description": "An online event to test your writing skills.",
+		"description": "An online event to test your scriptwriting skills.",
 		"location": "",
 		"timestamp": 2,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/kahani.jpg",
@@ -844,6 +877,10 @@
 			{
 				"name": "Niharika Gali",
 				"phoneNumber": 9494479776
+			},
+			{
+				"name": "Akash Mishra",
+				"phoneNumber": 9696427244
 			}
 		]
 	},
@@ -1078,7 +1115,19 @@
 			"main stage",
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Shubh Singh",
+				"phoneNumber": 7317292025
+			},
+			{
+				"name": "Navneet Kumar Patel",
+				"phoneNumber": 8840042226
+			},
+			{
+				"name": "Jayesh Patil",
+				"phoneNumber": 8319232214
+			}
+		]
 	},
 	{
 		"id": 150,
